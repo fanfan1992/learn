@@ -9,4 +9,4 @@
 header("Content-Type:text/html;charset=utf-8");
 echo "abc";
 echo "This is my git learnning!";
-echo "½øÐÐÐÞ¸Ä£¡";
+echo "This my test";
